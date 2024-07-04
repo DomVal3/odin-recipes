@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.main-title{
+    background-color: rgb(115, 43, 43);
+    font-family: 'Courier New', Arial, Verdana;
+    font-size: 700;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+
+.front {
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 200;
+    
+}
+
+#front-text{
+    color: black;
+    font-family: 'Courier New', Arial, Verdana;
+}
+
+.second-head{
+    font-style: italic;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+ul,
+p,
+ol{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
